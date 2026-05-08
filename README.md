@@ -44,7 +44,7 @@ I build and operate AWS infrastructure for production workloads — IaC with Ter
 ### Reach me
 
 - **LinkedIn:** [linkedin.com/in/chavanshroffakshay](https://linkedin.com/in/chavanshroffakshay)
-- **Email:** cskakshay9801@gmail.com
+- **Email:** csakshay9801@gmail.com
 
 ---
 
