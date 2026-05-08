@@ -20,12 +20,12 @@ I build and operate AWS infrastructure for production workloads — IaC with Ter
 
 | Repo | What it shows |
 |---|---|
-| [aws-devops-platform](https://github.com/akshaychavan/aws-devops-platform) | End-to-end CI/CD on AWS — CodePipeline, Terraform, GitOps with ArgoCD |
-| [aws-genai-engineering](https://github.com/akshaychavan/aws-genai-engineering) | Production GenAI patterns on AWS — Bedrock, IRSA, agentic infrastructure |
-| [aws-microservices-eks](https://github.com/akshaychavan/aws-microservices-eks) | Building, securing, and observing microservices on EKS |
-| [aws-data-engineering](https://github.com/akshaychavan/aws-data-engineering) | Serverless ETL, Glue/DMS migrations, Lake Formation governance |
-| [aws-networking-security](https://github.com/akshaychavan/aws-networking-security) | VPC design, multi-region storage, IAM least privilege, Security Hub |
-| [gcp-data-platform](https://github.com/akshaychavan/gcp-data-platform) | Cross-cloud data engineering on GCP — BigQuery, Dataflow, Vertex AI |
+| [aws-devops-platform](https://github.com/chavanshroffakshay/aws-devops-platform) | End-to-end CI/CD on AWS — CodePipeline, Terraform, GitOps with ArgoCD |
+| [aws-genai-engineering](https://github.com/chavanshroffakshay/aws-genai-engineering) | Production GenAI patterns on AWS — Bedrock, IRSA, agentic infrastructure |
+| [aws-microservices-eks](https://github.com/chavanshroffakshay/aws-microservices-eks) | Building, securing, and observing microservices on EKS |
+| [aws-data-engineering](https://github.com/chavanshroffakshay/aws-data-engineering) | Serverless ETL, Glue/DMS migrations, Lake Formation governance |
+| [aws-networking-security](https://github.com/chavanshroffakshay/aws-networking-security) | VPC design, multi-region storage, IAM least privilege, Security Hub |
+| [gcp-data-platform](https://github.com/chavanshroffakshay/gcp-data-platform) | Cross-cloud data engineering on GCP — BigQuery, Dataflow, Vertex AI |
 
 ---
 
